@@ -28,7 +28,7 @@ export const GetImages = () => {
             }
         });
     } 
-    
+  
     useEffect(getPhotos,[]); 
     return (
         <div>
