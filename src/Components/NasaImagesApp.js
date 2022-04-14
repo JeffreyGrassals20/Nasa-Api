@@ -10,7 +10,7 @@ const NasaImagesApp = () => {
            
         <Toolbar/>
           <GetImages/>
-
+        
         </div>
     )
 
